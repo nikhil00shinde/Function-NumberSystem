@@ -3,3 +3,4 @@ DecimalToAnyBase.class
 AnyBaseToDecimal.class
 AnyBaseToAnyBase.class
 AnyBaseSum.class
+AnyBaseSubstraction.class
