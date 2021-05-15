@@ -13,3 +13,4 @@
 4. Any Base to Any Base
 5. Any Base Sum
 6. Any Base Substraction
+7. Any Base Multiplication
